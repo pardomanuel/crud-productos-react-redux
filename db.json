@@ -1,0 +1,19 @@
+{
+  "productos": [
+    {
+      "nombre": "gfdgdf",
+      "precio": "50",
+      "id": 2
+    },
+    {
+      "nombre": "nuevo 2",
+      "precio": "2222",
+      "id": 3
+    },
+    {
+      "nombre": "dasdas",
+      "precio": 321312,
+      "id": 4
+    }
+  ]
+}
